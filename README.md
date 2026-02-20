@@ -1,3 +1,4 @@
+This project was built as a full-stack practice project to strengthen my MERN stack development skills
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
